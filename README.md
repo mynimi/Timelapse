@@ -1,6 +1,8 @@
 # Timelapse - the flowy one
 ## responsive Blogger Template
 
+![preview](https://raw.githubusercontent.com/mynimi/Timelapse/master/timelapse.png)
+
 Bei Timelapse wollte ich mit der Startseite spielen. Ziel war es, auf den ersten Blick zu verbergen, dass es sich hier um ein Blogger Template handelt. Es sollte modern wirken.
 
 Timelapse ist im Moment nicht mit dem Vorlagendesigner kompatibel
