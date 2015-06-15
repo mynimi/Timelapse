@@ -16,8 +16,15 @@
 <!-- Lato Webfont -->
    <link href='http://fonts.googleapis.com/css?family=Lato:300italic,300,700' rel='stylesheet' type='text/css'/>
 
-<b:skin><![CDATA[*/
+ <b:skin><![CDATA[*/
+-----------------------------------------------
+Blogger Template Style
+Name:     Frosted Cupcake
+Designer: Myriam Frisano
+URL:      http://halfapx.com
+----------------------------------------------- */
 ]]></b:skin>
+
 <b:template-skin><![CDATA[
 body{
  background: url(https://googledrive.com/host/0Bz6HRVCs7oBablBqNTJZc3lLclU/CSS/mochaGrunge.png) repeat; 
